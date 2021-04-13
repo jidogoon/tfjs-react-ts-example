@@ -1,5 +1,4 @@
 import { useRef, useState, useEffect } from "react";
-import "@tensorflow/tfjs-backend-cpu";
 import "./App.css";
 import movie from "./SpolierFrontend.mp4";
 import { FaceDetector } from "./FaceDetector";
